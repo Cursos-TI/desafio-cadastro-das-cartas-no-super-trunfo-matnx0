@@ -32,7 +32,7 @@ int main() {
     // O "&"" é o operador de endereço, necessário para o scanf.
     scanf("%d", &populacao_carta1);
 
-    printf("Digite a area (em km2): ");
+    printf("Digite a area: ");
     // O "%f" é um especificador de formato para float.
     scanf("%f", &area_carta1);
 
@@ -47,7 +47,7 @@ int main() {
     printf("Digite a populacao: ");
     scanf("%d", &populacao_carta2);
 
-    printf("Digite a area (em km2): ");
+    printf("Digite a area: ");
     scanf("%f", &area_carta2);
 
     printf("Digite o PIB: ");

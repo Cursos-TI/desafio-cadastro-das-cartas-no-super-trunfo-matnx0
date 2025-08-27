@@ -36,7 +36,7 @@ int main() {
     // O "%f" é um especificador de formato para float.
     scanf("%f", &area_carta1);
 
-    printf("Digite o PIB (em trilhoes): ");
+    printf("Digite o PIB: ");
     scanf("%f", &pib_carta1);
 
     printf("Digite o numero de pontos turisticos: ");
@@ -50,7 +50,7 @@ int main() {
     printf("Digite a area (em km2): ");
     scanf("%f", &area_carta2);
 
-    printf("Digite o PIB (em trilhoes): ");
+    printf("Digite o PIB: ");
     scanf("%f", &pib_carta2);
 
     printf("Digite o numero de pontos turisticos: ");
